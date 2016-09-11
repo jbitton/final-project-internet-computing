@@ -1,0 +1,29 @@
+/*!
+ * Start Bootstrap - Blog Home HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-image: url(background.jpg);
+    background-attachment: fixed;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+h1, h4 {
+    font-weight: 700;
+}
+
+.col-md-8, .well {
+    background-color: white;
+    background-color: rgba(255,255,255,0.5);
+}
